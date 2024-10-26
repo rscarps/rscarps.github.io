@@ -28,24 +28,7 @@ author:
   location         : "Frederick, MD"
   employer         : 
   uri              : 
-  email            : "russellscarpino@gmail.com" 
-
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
-  impactstory      : # URL
-  orcid            : 
-  semantic         : # URL
-  pubmed           : 
-  researchgate     : https://www.researchgate.net/scientific-contributions/Russell-Scarpino-2056701917
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "rscarps"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  email            : "russellscarpino@gmail.com"
 
   # Social media
   bluesky          : 
@@ -73,10 +56,25 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "rscarps"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")   
+
+  # Academic websites
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : 
+  impactstory      : # URL
+  orcid            : 
+  semantic         : # URL
+  pubmed           : 
+  researchgate     : https://www.researchgate.net/scientific-contributions/Russell-Scarpino-2056701917 
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
