@@ -4,8 +4,6 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: portfolio
 ---
 
-# DevOps Deployment API Documentation
-
 **DevOps Deployment API Documentation** is a technical writing portfolio project that showcases developer-focused API documentation skills using real-world DevOps concepts.
 
 This project simulates a RESTful API for deploying applications to Kubernetes clusters via CI/CD pipelines. The documentation includes:
